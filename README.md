@@ -450,7 +450,7 @@ Based on the five supplied screenshots:
 
 A walkthrough can be added here to demonstrate all five report pages, slicers, charts and key findings.
 
-🔗 **[Watch the video here](YOUR_VIDEO_LINK_HERE)**
+🔗 **[Watch the video here](https://drive.google.com/file/d/1a6NSx5x9vvJbeeNvt5DR4T4dqsOaN1bp/view?usp=sharing)**
 
 ---
 
